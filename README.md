@@ -3,6 +3,12 @@
 This mini-project is a real-time **secure chat application** with integrated **file upload**, **Caesar cipher encryption**, and **performance monitoring** (latency, throughput, and packet drop simulation). It is designed for **Data Communication Networks Lab** and can be run between two PCs over a LAN or localhost.
 
 ---
+### 💬 Chat Interface
+![Chat Screenshot](Screenshot_2025-05-24_094812.jpg)
+
+### 📁 File Upload and Metrics
+![File Upload Screenshot](Screenshot_2025-05-24_094624.jpg)
+![Metrics](Screenshot_2025-05-24_094854.jpg)
 
 ## 📌 Features
 
