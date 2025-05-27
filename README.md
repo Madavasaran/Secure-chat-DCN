@@ -43,9 +43,9 @@ Run the below command
 ## 🌐 Running on Two PCs
 Ensure both PCs are connected on the same LAN.
 Get the IP address of the host PC using ipconfig (Windows) or ifconfig (Linux/macOS).
-# On the host PC, run:
+## On the host PC, run:
 - python app.py
-# On the client PC, open the browser and go to:
+## On the client PC, open the browser and go to:
 - http://<host-ip>:5000
 
 
