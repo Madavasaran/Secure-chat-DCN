@@ -52,6 +52,6 @@ Get the IP address of the host PC using ipconfig (Windows) or ifconfig (Linux/ma
 ## On the host PC, run:
 - python app.py
 ## On the client PC, open the browser and go to:
-- http://<host-ip>:5000
+- http://host_IP:5000
 
 
